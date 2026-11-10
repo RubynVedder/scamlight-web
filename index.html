@@ -1,24 +1,98 @@
 <!doctype html>
 <html lang="de"><head><meta charset="utf-8">
 <meta name="viewport" content="width=device-width,initial-scale=1">
-<title>Start – ScamLight</title><style>
-body{font-family:system-ui,-apple-system,"Segoe UI",Roboto,sans-serif;font-size:20px;line-height:1.6;
-max-width:44rem;margin:0 auto;padding:1.5rem 1rem;color:#111;background:#fff}
-h1{color:#0b3d91;font-size:2rem}h2{color:#0b3d91;margin-top:2rem}a{color:#0b3d91}
-header{display:flex;gap:1rem;align-items:center;border-bottom:3px solid #0b3d91;padding-bottom:.5rem}
-header a{font-weight:700;text-decoration:none;font-size:1.3rem}nav{margin-left:auto;display:flex;gap:1rem;font-size:1rem}
-footer{margin-top:3rem;border-top:1px solid #ccc;padding-top:1rem;font-size:1rem}
-@media (prefers-color-scheme:dark){body{background:#111;color:#eee}h1,h2,a,header a{color:#8fb4ff}header{border-color:#8fb4ff}}
+<meta name="description" content="ScamLight – der Schutz vor Fake-Shops auf Android. Ampel-Warnung direkt im Browser, Prüfung auf dem Gerät, ohne Werbung und ohne Tracking.">
+<meta name="color-scheme" content="dark">
+<title>Schutz vor Fake-Shops – ScamLight</title><style>
+:root{--bg:#0b1020;--panel:#121a30;--line:#25304f;--text:#e8ecf6;--muted:#a9b3cc;--accent:#5cc8ff;
+--red:#ff5c5c;--yellow:#ffd23f;--green:#3ddc84}
+*{box-sizing:border-box}
+html{background:var(--bg)}
+body{margin:0;font-family:system-ui,-apple-system,"Segoe UI",Roboto,sans-serif;font-size:19px;line-height:1.65;
+color:var(--text);background:radial-gradient(1200px 500px at 50% -200px,#1b2a55 0%,var(--bg) 70%) no-repeat,var(--bg)}
+a{color:var(--accent)}a:focus-visible{outline:3px solid var(--accent);outline-offset:2px}
+.wrap{max-width:62rem;margin:0 auto;padding:0 1rem}
+header{border-bottom:1px solid var(--line)}
+.bar{display:flex;align-items:center;gap:.75rem;padding-top:1rem;padding-bottom:1rem;flex-wrap:wrap}
+.brand{display:flex;align-items:center;gap:.6rem;color:var(--text);text-decoration:none;font-weight:800;
+font-size:1.35rem;letter-spacing:.01em}
+nav{margin-left:auto;display:flex;gap:1.2rem;font-size:1rem}nav a{color:var(--muted);text-decoration:none}
+nav a:hover{color:var(--text)}
+.hero{padding:3.5rem 0 2.5rem;display:grid;grid-template-columns:1fr auto;gap:2rem;align-items:center}
+.hero h1{font-size:clamp(2.1rem,5vw,3.2rem);line-height:1.15;margin:0 0 1rem}
+.hero p{color:var(--muted);font-size:1.15rem;margin:0 0 1.5rem;max-width:36rem}
+.badge{display:inline-block;border:1px solid var(--line);background:var(--panel);color:var(--muted);
+border-radius:999px;padding:.35rem .9rem;font-size:.9rem;margin-bottom:1rem}
+.badge b{color:var(--yellow)}
+.lights{display:flex;flex-direction:column;gap:.9rem;background:#060914;border:1px solid var(--line);
+border-radius:1.6rem;padding:1.1rem}
+.lights span{display:block;width:4.2rem;height:4.2rem;border-radius:50%}
+.l-r{background:var(--red);box-shadow:0 0 28px rgba(255,92,92,.55)}
+.l-y{background:var(--yellow);box-shadow:0 0 28px rgba(255,210,63,.45)}
+.l-g{background:var(--green);box-shadow:0 0 28px rgba(61,220,132,.45)}
+h2{font-size:1.6rem;margin:2.5rem 0 1rem}
+.grid{display:grid;grid-template-columns:repeat(2,1fr);gap:1rem}
+.card{background:var(--panel);border:1px solid var(--line);border-radius:1rem;padding:1.3rem}
+.card h3{margin:.2rem 0 .5rem;font-size:1.15rem}.card p{margin:0;color:var(--muted);font-size:1rem}
+.tag{font-size:.8rem;font-weight:700;text-transform:uppercase;letter-spacing:.06em;color:var(--accent)}
+.tag.soon{color:var(--yellow)}
+.legend{display:grid;gap:.7rem;margin:0;padding:0;list-style:none}
+.legend li{display:flex;gap:.9rem;align-items:flex-start;background:var(--panel);border:1px solid var(--line);
+border-radius:.8rem;padding:.9rem 1rem}
+.dot{flex:none;width:1.2rem;height:1.2rem;border-radius:50%;margin-top:.3rem}
+.note{color:var(--muted);font-size:1rem}
+main.doc{max-width:46rem;padding-bottom:2rem}main.doc h1{margin-top:2rem}main.doc h2{font-size:1.3rem}
+footer{border-top:1px solid var(--line);margin-top:3.5rem;padding:1.5rem 0 2.5rem;color:var(--muted);font-size:.95rem}
+footer .cols{display:flex;flex-wrap:wrap;gap:.6rem 2rem}
+@media (max-width:40rem){.grid{grid-template-columns:1fr}.hero{grid-template-columns:1fr}.lights{flex-direction:row;justify-self:start}
+.lights span{width:3rem;height:3rem}nav{margin-left:0}}
 </style></head>
-<body><header><a href="/">ScamLight</a><nav><a href="/datenschutz/">Datenschutz</a>
-<a href="/impressum/">Impressum</a></nav></header>
-<main><h1>ScamLight</h1>
-<p>Die Android-App <strong>ScamLight</strong> warnt vor Fake-Shops und Betrugsseiten – mit einer einfachen
-Ampel: <strong>Rot</strong> heißt Betrug, keine Daten eingeben. <strong>Gelb</strong> heißt Vorsicht.
-<strong>Grün</strong> heißt nichts Auffälliges gefunden.</p>
-<p>Ohne Werbung, ohne Tracking. ScamLight liest nur die Adresszeile Ihres Browsers – keine Nachrichten,
-keine Passwörter, keine Eingaben.</p>
-<p>ScamLight erkennt viele, aber nicht alle Betrugsseiten. Bleiben Sie trotzdem aufmerksam.</p>
+<body><header><div class="wrap bar"><a class="brand" href="/"><svg width="22" height="36" viewBox="0 0 22 36" aria-hidden="true"><rect x="1" y="1" width="20" height="34" rx="6" fill="#060914" stroke="#25304f"/><circle cx="11" cy="9" r="4.2" fill="#ff5c5c"/><circle cx="11" cy="18" r="4.2" fill="#ffd23f"/><circle cx="11" cy="27" r="4.2" fill="#3ddc84"/></svg>ScamLight</a>
+<nav><a href="/#funktionen">Funktionen</a><a href="/datenschutz/">Datenschutz</a><a href="/impressum/">Impressum</a></nav>
+</div></header>
+<main class="wrap"><section class="hero">
+<div>
+<span class="badge">Status: <b>in Vorbereitung</b> – Start im Google Play Store bald</span>
+<h1>Der intelligente Schutz vor Fake-Shops auf Android.</h1>
+<p>ScamLight zeigt Ihnen beim Surfen eine einfache Ampel – und warnt, bevor Sie bei einem Fake-Shop bezahlen.
+Ohne Werbung, ohne Tracking, ohne Konto.</p>
+</div>
+<div class="lights" aria-hidden="true"><span class="l-r"></span><span class="l-y"></span><span class="l-g"></span></div>
+</section>
+
+<h2>So einfach ist die Ampel</h2>
+<ul class="legend">
+<li><span class="dot l-r"></span><div><strong>Rot – Betrug.</strong> Die Seite steht auf einer Warnliste. Keine Daten eingeben, nichts bezahlen.</div></li>
+<li><span class="dot l-y"></span><div><strong>Gelb – Vorsicht.</strong> Es gibt Auffälligkeiten. Keine Vorkasse leisten.</div></li>
+<li><span class="dot l-g"></span><div><strong>Grün – nichts Auffälliges gefunden.</strong> Trotzdem aufmerksam bleiben.</div></li>
+</ul>
+
+<h2 id="funktionen">Funktionen</h2>
+<div class="grid">
+<div class="card"><span class="tag">Warnlisten</span><h3>Rund 19.000 bekannte Fake-Shops</h3>
+<p>Fake-Shop-Warnungen der Verbraucherzentralen (täglich aktualisiert) und die offene HaGeZi-Liste bekannter
+Fake-Shops und Betrugsseiten. Der Abgleich passiert auf Ihrem Handy.</p></div>
+<div class="card"><span class="tag">Heuristik</span><h3>Unbekannte Shops erkennen</h3>
+<p>Kaum bekannte Seiten mit typischen Fake-Shop-Endungen wie .shop oder .store, nachgeahmte Markennamen und sehr
+junge Domains werden gelb markiert.</p></div>
+<div class="card"><span class="tag">Datenschutz</span><h3>Prüfung auf dem Gerät</h3>
+<p>ScamLight liest nur die Adresszeile Ihres Browsers – keine Nachrichten, keine Passwörter, keine Eingaben.
+Besuchte Adressen verlassen Ihr Handy nicht.</p></div>
+<div class="card"><span class="tag soon">In Vorbereitung</span><h3>Web-Check für Erfahrungsberichte</h3>
+<p>Auf Wunsch sucht ScamLight bei einer ausdrücklichen Shop-Prüfung im Internet nach Warnungen und
+Erfahrungsberichten – nur mit dem Namen des Shops.</p></div>
+</div>
+
+<h2>Download</h2>
+<div class="card"><p>ScamLight ist fertig entwickelt und wird gerade für den Google Play Store vorbereitet.
+Sobald die App verfügbar ist, finden Sie den Link hier.</p></div>
+<p class="note">ScamLight erkennt viele, aber nicht alle Betrugsseiten. Bleiben Sie trotzdem aufmerksam.
+Im Zweifel hilft der <a href="https://www.verbraucherzentrale.de/fakeshopfinder-71560">Fakeshop-Finder der Verbraucherzentralen</a>.</p>
 </main>
-<footer><a href="/datenschutz/">Datenschutzerklärung</a> · <a href="/impressum/">Impressum</a></footer>
+<footer><div class="wrap cols">
+<span>© ScamLight · Kontakt: <a href="mailto:kontakt@scamlight.de">kontakt@scamlight.de</a></span>
+<a href="/impressum/">Impressum</a><a href="/datenschutz/">Datenschutzerklärung</a>
+<span>Local-First: Die Prüfung läuft auf Ihrem Gerät. Diese Webseite setzt keine Cookies und kein Tracking.</span>
+<span>Webseite: GitHub Pages · Domain: netcup</span>
+</div></footer>
 </body></html>
