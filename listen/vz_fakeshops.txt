@@ -1,4 +1,4 @@
-# Fake-Shop-Warnungen der Verbraucherzentralen (https://warnung.fakeshop-finder.de/), Stand 2026-11-10
+# Fake-Shop-Warnungen der Verbraucherzentralen (https://warnung.fakeshop-finder.de/), Stand 2026-11-12
 # Erzeugt mit scripts/build_vz_list.py – nicht von Hand bearbeiten.
 aeribold.com
 aerzteregistrat.de
@@ -41,6 +41,7 @@ biketools24.com
 bioholzpellets.de
 biokontor.shop
 birnerforsttechnik.de
+boatpumpzone.com
 boismat.de
 bonprixmode.com
 boomtownstreetwear.de
@@ -175,7 +176,6 @@ goillo.com
 goldbesitz.com
 goldstern-elektro.com
 golfnavi.shop
-grand-bazar.de
 grillhausug.com
 grinmeup.shop
 grocery-awholesale.shop
@@ -213,6 +213,7 @@ holzfurwinter.com
 holzgluck.de
 holzgutexpress.de
 holzhandelholzhauer.com
+holzhofgmbh.de
 holzkamin.com
 holzliefernexpress.de
 holzregional.de
@@ -227,7 +228,6 @@ hubwerkshop24.com
 hysellia.com
 ihk-eforen.de
 isabella-buenosaires.com
-jads-silencer.com
 jcs-technologies.de
 johdorbrennholz.com
 julia-madrid.com
@@ -248,7 +248,6 @@ kronsummitgmbh.de
 krovian.shop
 kuchtafe.myshopify.com
 kuk-kaffee.de
-kuriovault.com
 lamerahomemobel.shop
 lanyera.com
 larshamburg.com
@@ -372,6 +371,7 @@ sciponoe.com
 scs-elektro.de
 seatoria.com
 servicehanschen-kg.com
+sicama.eu
 sigl-inso.de
 sissoko-keita.com
 skiwaxcare.com
