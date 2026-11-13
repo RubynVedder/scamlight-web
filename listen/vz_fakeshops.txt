@@ -1,11 +1,10 @@
-# Fake-Shop-Warnungen der Verbraucherzentralen (https://warnung.fakeshop-finder.de/), Stand 2026-11-12
+# Fake-Shop-Warnungen der Verbraucherzentralen (https://warnung.fakeshop-finder.de/), Stand 2026-11-13
 # Erzeugt mit scripts/build_vz_list.py – nicht von Hand bearbeiten.
 aeribold.com
 aerzteregistrat.de
 agritechcenter.de
 aio-vita.com
 aknowi.de
-aktioncode.com
 albuni-24.de
 allergocover.care
 alpha3-gmbh.de
@@ -19,13 +18,13 @@ atlascontainerlogistikgmbh.de
 auraverely.com
 autohaus-temuer.de
 autohistorik.de
-autonivo.de
 b-chauffage.de
 backenundsuben.com
 bahntechnik-garten.de
 bauer-brennstoffe.com
 bauhauuss.de
 beatrice-london.com
+bellaro-store.de
 bellataylor-newyork.com
 berger-brennstoffe.com
 bergmann-outdoor.com
@@ -37,12 +36,12 @@ bhsbrennholzservicegmbh.de
 bike-striptechnology.de
 bikecouture.de
 bikeservice-store.com
+bikestock-shop.de
 biketools24.com
 bioholzpellets.de
 biokontor.shop
 birnerforsttechnik.de
 boatpumpzone.com
-boismat.de
 bonprixmode.com
 boomtownstreetwear.de
 boostertresor.com
@@ -70,9 +69,7 @@ brennstoffhandel-behnke.de
 brettspielmeister.shop
 btrgservices.com
 buchlaterne.de
-camerapicks.com
 campusfahrradergmbh.de
-canyonoutlet.de
 carpruf.de
 casualtry.de
 celeste-milano.com
@@ -88,6 +85,7 @@ containercst-gmbh.de
 containerschiffsreedereigmbh.de
 cosmic-tower.ch
 cosmictower.ch
+cowboy-brothers.de
 daily-outfit.de
 dalacker-energie.com
 dankers-containers.de
@@ -99,7 +97,6 @@ de.shopmaxxs.com
 debot-maschinen.de
 delphios.shop
 delvaxor.shop
-derbyfahrrader.de
 dieameisenmaler.com
 dieameisenmaler.myshopify.com
 diermann-marketing.de
@@ -156,7 +153,6 @@ frischedecke.com
 fumotde.de
 furneo-handel.com
 furnilivora.com
-fwnkeoyt.shop
 fxtpi.shop
 gaborschuhe.com
 garage-autosteve.com
@@ -175,6 +171,7 @@ goia-direkt.de
 goillo.com
 goldbesitz.com
 goldstern-elektro.com
+goldtanne.de
 golfnavi.shop
 grillhausug.com
 grinmeup.shop
@@ -208,6 +205,7 @@ hjz-handel.de
 holz-josh.de
 holz-market.com
 holz-wagner.com
+holzcoins.com
 holzfeuerlust.de
 holzfurwinter.com
 holzgluck.de
@@ -227,6 +225,7 @@ hselbe-fahrrad.de
 hubwerkshop24.com
 hysellia.com
 ihk-eforen.de
+instore-fashion.de
 isabella-buenosaires.com
 jcs-technologies.de
 johdorbrennholz.com
@@ -240,6 +239,7 @@ kaufello.shop
 kcfvsjpr.shop
 kfnkapital-gruppe.de
 kfzdaten24.de
+kickhoodies.de
 kingtcg.shop
 klima-profi24.de
 klimaanlageportal.de
@@ -299,6 +299,7 @@ mobeloutletneheim.shop
 moelders24.de
 moellerbrennholz.de
 mollerbrennholzhandelgmbh.de
+morgenwarme.de
 mototeilecenter.com
 mpq-ebiketechnik.de
 msihandelgmbh.de
@@ -376,13 +377,12 @@ sigl-inso.de
 sissoko-keita.com
 skiwaxcare.com
 slktggph.shop
+smarthos.de
 sofia-barcelona.com
 solarosales-green.com
 solidewaren.com
+soniferaheim.de
 sophie-melbourne.com
-sophie-rotterdam.com
-sophieberlin.com
-sophievienna.com
 sparhaustechnik.de
 spedition-tml.de
 stammholz-forest.com
