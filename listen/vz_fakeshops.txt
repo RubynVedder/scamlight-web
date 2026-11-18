@@ -1,4 +1,4 @@
-# Fake-Shop-Warnungen der Verbraucherzentralen (https://warnung.fakeshop-finder.de/), Stand 2026-11-17
+# Fake-Shop-Warnungen der Verbraucherzentralen (https://warnung.fakeshop-finder.de/), Stand 2026-11-18
 # Erzeugt mit scripts/build_vz_list.py – nicht von Hand bearbeiten.
 aeribold.com
 aerzteregistrat.de
@@ -89,9 +89,11 @@ ebikeprofi24.de
 ebikezeit-fahrrad.de
 ebm-heimwerk.com
 ecoworkss.store
+edelmetalle-web.de
 edelmetallshop24.com
 eg-tradeshop.com
 einstefeg.shop
+elektrocenters.de
 engelhardt-holzhandlung.de
 escobike.shop
 eshop.stonebournea.com
@@ -155,11 +157,13 @@ havlo.de
 heizelektromark.de
 heizholz-express.com
 heizoel-bio.com
+heizoel-classic.com
 heizoel-genial.com
 heizoel-online.com
 hellhausgarten.com
 helvaron.shop
 heudorfer-fahrradladen.de
+hewil-heizung.de
 hjz-handel.de
 holz-josh.de
 holz-market.com
@@ -167,11 +171,11 @@ holzcoins.com
 holzfeuerlust.de
 holzfurwinter.com
 holzgluck.de
-holzgutexpress.de
 holzhandelholzhauer.com
 holzhofgmbh.de
 holzkamin.com
 holzliefernexpress.de
+holzpro24.com
 holzregional.de
 holzverkauf-lfl.shop
 holzwaermedirekt.de
@@ -184,6 +188,7 @@ jcs-technologies.de
 johdorbrennholz.com
 kahla-official.com
 kaiserstadtcontainergmbh.de
+kaminholzhalstenbekgmbh.com
 kanzlei-hexental.de
 kanzlei-owl.com
 kaufello.shop
@@ -206,9 +211,9 @@ lkwpetru-shop.com
 machinery-technologyeuropeltd.de
 madegsly.com
 magiluxe-store.com
-mahlwerk-meisterei.de
 makerklang.shop
 market.ashfielden.com
+market.fieldcrofton.com
 market.galeririva.com
 market.glenleigha.com
 market.stonebournea.com
@@ -243,12 +248,12 @@ netzpro.shop
 newblue-tradingshop.com
 nicoudo.com
 nordza.de
-nowfahrrad.de
+oel-check.com
 oko-heizung.de
 oko-spechtbrennholzgmbh.de
 okobrennstoffeforstergmbh.com
-ostermaierbrennholz.de
 otto-retouren.de
+pagatxa.com
 paulusbrennholz.com
 pawmony.shop
 pellet-werk.com
@@ -268,6 +273,7 @@ purekaffee.com
 qrlsvssy.shop
 quarvesta.shop
 racineelectromenager.com
+rad-held.com
 radfit24.com
 radmarkt-schaeler.de
 raumnote.de
@@ -288,7 +294,6 @@ scandiwarm.com
 schmitz-bio-ol.de
 schnellenberger-haus.de
 schuhe.live
-scierie-garmier.de
 sciponoe.com
 scs-elektro.de
 servicehanschen-kg.com
@@ -297,6 +302,7 @@ sissoko-keita.com
 skiwaxcare.com
 slktggph.shop
 smarthos.de
+solidewaren.com
 soniferaheim.de
 sparhaustechnik.de
 starkg.de
@@ -305,12 +311,10 @@ stiefelwerkstatt.shop
 store.elmleigha.com
 store.elvaritaro.com
 store.kingslora.com
-store.ternwick.com
 store.woodgroven.com
 sunpowerprofi.de
 swabytec24.com
 swabytec24.de
-talidix.com
 taotdzhi.shop
 tc-germany.com
 teichpoint.live
@@ -331,7 +335,6 @@ varzunel.com
 vdel-electromenager.com
 verlinggroup.com
 viewhaushaltswaren.shop
-vision-velo.com
 vnpsfyme.shop
 vogeler-technik.de
 volturexa.de
@@ -342,7 +345,6 @@ weinlandhub.com
 weldora.de
 wensauer-holz.com
 werksraeder-24.de
-werkswagen-porsche.de
 weteextees.com
 whndiisb.shop
 wiga-pharma.de
@@ -354,9 +356,7 @@ wohnelva.de
 wohnenideenalltag.com
 workco.de
 ysa-handels.com
-yzorigwl.shop
 zenpa.shop
-zeols.com
 znvzhsbw.shop
 zovrilo.com
 zvelonium.de
