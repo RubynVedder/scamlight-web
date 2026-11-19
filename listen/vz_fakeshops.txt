@@ -1,4 +1,4 @@
-# Fake-Shop-Warnungen der Verbraucherzentralen (https://warnung.fakeshop-finder.de/), Stand 2026-11-18
+# Fake-Shop-Warnungen der Verbraucherzentralen (https://warnung.fakeshop-finder.de/), Stand 2026-11-19
 # Erzeugt mit scripts/build_vz_list.py – nicht von Hand bearbeiten.
 aeribold.com
 aerzteregistrat.de
@@ -67,9 +67,9 @@ cosmic-tower.ch
 cosmictower.ch
 cowboy-brothers.de
 daily-outfit.de
-dalacker-energie.com
 dankers-containers.de
 datenfin.de
+de-leipzig.de
 de.bio-brennholz.de
 de.novintra.shop
 de.plantiter.shop
@@ -83,8 +83,6 @@ doormey.myshopify.com
 e-bikesmkgmbh-de.com
 e-bikesmkgmbh.com
 e24-shopech.com
-ealzsidb.shop
-ebike-outlestore.de
 ebikeprofi24.de
 ebikezeit-fahrrad.de
 ebm-heimwerk.com
@@ -97,13 +95,11 @@ elektrocenters.de
 engelhardt-holzhandlung.de
 escobike.shop
 eshop.stonebournea.com
-eventsamrhein.de
 fahrradu.de
 fahrzeugspur.de
 falthammer-markt.com
 ferreira-container.com
 fest-holz.com
-festgeldtracker.us.com
 feuer-und-holz.store
 feuerholzkiste.de
 feuerholzliebe.de
@@ -111,7 +107,6 @@ feuerund-holz.de
 finbefund.de
 finsiegel.de
 fixardo.de
-forsage-gartenkauf.com
 frankefahrrad.de
 frischedec.com
 frischedecke.com
@@ -128,7 +123,6 @@ gartenhandel-poltermann.de
 gartentechnikwelt.de
 gerardusbraas.com
 gfadenoaillac.com
-gfhltechnik.de
 giebel-motorgeraetekg.de
 global-kaufhaus.com
 glutbar.de
@@ -188,6 +182,7 @@ jcs-technologies.de
 johdorbrennholz.com
 kahla-official.com
 kaiserstadtcontainergmbh.de
+kaminexpertstore.com
 kaminholzhalstenbekgmbh.com
 kanzlei-hexental.de
 kanzlei-owl.com
@@ -256,6 +251,7 @@ otto-retouren.de
 pagatxa.com
 paulusbrennholz.com
 pawmony.shop
+pbici.com
 pellet-werk.com
 pelletkontor.de
 pelletpoint77gmbh.de
@@ -277,6 +273,7 @@ rad-held.com
 radfit24.com
 radmarkt-schaeler.de
 raumnote.de
+reisholz.de
 reptailshop.de
 reynamobel.shop
 riedelweinglaser.de
@@ -312,6 +309,7 @@ store.elmleigha.com
 store.elvaritaro.com
 store.kingslora.com
 store.woodgroven.com
+strollerstepbase.com
 sunpowerprofi.de
 swabytec24.com
 swabytec24.de
@@ -328,6 +326,7 @@ uaxmncug.shop
 ufheimwerker-de.com
 universalsack.com
 uqsjmnnr.shop
+urbanfashia.com
 vanessamaishop.de
 vape-de.de
 varileoutdoors.shop
@@ -354,6 +353,7 @@ wloka-brennholz.de
 wmuwoebj.shop
 wohnelva.de
 wohnenideenalltag.com
+wolle-weinreich-muehlhausen.de
 workco.de
 ysa-handels.com
 zenpa.shop
