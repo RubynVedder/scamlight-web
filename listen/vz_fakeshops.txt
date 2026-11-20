@@ -1,4 +1,4 @@
-# Fake-Shop-Warnungen der Verbraucherzentralen (https://warnung.fakeshop-finder.de/), Stand 2026-11-19
+# Fake-Shop-Warnungen der Verbraucherzentralen (https://warnung.fakeshop-finder.de/), Stand 2026-11-20
 # Erzeugt mit scripts/build_vz_list.py – nicht von Hand bearbeiten.
 aeribold.com
 aerzteregistrat.de
@@ -23,14 +23,11 @@ berkklan.myshopify.com
 berlin-brennstoffe.de
 bgmbgroupe.com
 bhsbrennholzservicegmbh.de
-bike-striptechnology.de
-bikecouture.de
 bikeservice-store.com
 bikestock-shop.de
 biokontor.shop
 boatpumpzone.com
 bonprixmode.com
-boostertresor.com
 borde-brennholzpaulusgmbh.com
 boxtrail.de
 brennholz-deckarm.shop
@@ -59,10 +56,10 @@ casualtry.de
 centraltradingshop.com
 cf-handelsshop.com
 cfbl-premiumholz.de
+cgholzhandel.de
 charentesalliance.com
 cjtzat.shop
 cjuuri.shop
-containercst-gmbh.de
 cosmic-tower.ch
 cosmictower.ch
 cowboy-brothers.de
@@ -94,6 +91,7 @@ einstefeg.shop
 elektrocenters.de
 engelhardt-holzhandlung.de
 escobike.shop
+escooterweltt.de
 eshop.stonebournea.com
 fahrradu.de
 fahrzeugspur.de
@@ -195,6 +193,7 @@ klimatmas.com
 krovian.shop
 kuchtafe.myshopify.com
 kuk-kaffee.de
+lanigo.de
 lanyera.com
 leagpellts.de
 legnaepellet24.it
@@ -356,6 +355,7 @@ wohnenideenalltag.com
 wolle-weinreich-muehlhausen.de
 workco.de
 ysa-handels.com
+zauberbeam.de
 zenpa.shop
 znvzhsbw.shop
 zovrilo.com
