@@ -1,6 +1,5 @@
-# Fake-Shop-Warnungen der Verbraucherzentralen (https://warnung.fakeshop-finder.de/), Stand 2026-11-20
+# Fake-Shop-Warnungen der Verbraucherzentralen (https://warnung.fakeshop-finder.de/), Stand 2026-11-21
 # Erzeugt mit scripts/build_vz_list.py – nicht von Hand bearbeiten.
-aeribold.com
 aerzteregistrat.de
 aio-vita.com
 aknowi.de
@@ -12,6 +11,7 @@ anhaengerliebe.de
 ascherslebener-holzhandel.de
 auraverely.com
 autohaus-temuer.de
+aznshdxc.shop
 b-chauffage.de
 backenundsuben.com
 bauer-brennstoffe.com
@@ -35,7 +35,6 @@ brennholz-hans.de
 brennholz-kammer.de
 brennholzangebot.com
 brennholzbredemeier.com
-brennholzhochwald-de.com
 brennholzkontorscharf.de
 brennholzkraft.com
 brennholzmuscheid.com
@@ -53,6 +52,7 @@ buchlaterne.de
 campusfahrradergmbh.de
 carpruf.de
 casualtry.de
+cemira.shop
 centraltradingshop.com
 cf-handelsshop.com
 cfbl-premiumholz.de
@@ -60,6 +60,8 @@ cgholzhandel.de
 charentesalliance.com
 cjtzat.shop
 cjuuri.shop
+cmnixogb.shop
+comfyclogs.store
 cosmic-tower.ch
 cosmictower.ch
 cowboy-brothers.de
@@ -67,14 +69,12 @@ daily-outfit.de
 dankers-containers.de
 datenfin.de
 de-leipzig.de
-de.bio-brennholz.de
 de.novintra.shop
 de.plantiter.shop
 delphios.shop
 delvaxor.shop
 dieameisenmaler.com
 dieameisenmaler.myshopify.com
-distri-globe.de
 diyhandels-de.com
 doormey.myshopify.com
 e-bikesmkgmbh-de.com
@@ -83,9 +83,7 @@ e24-shopech.com
 ebikeprofi24.de
 ebikezeit-fahrrad.de
 ebm-heimwerk.com
-ecoworkss.store
 edelmetalle-web.de
-edelmetallshop24.com
 eg-tradeshop.com
 einstefeg.shop
 elektrocenters.de
@@ -94,7 +92,6 @@ escobike.shop
 escooterweltt.de
 eshop.stonebournea.com
 fahrradu.de
-fahrzeugspur.de
 falthammer-markt.com
 ferreira-container.com
 fest-holz.com
@@ -109,7 +106,6 @@ frankefahrrad.de
 frischedec.com
 frischedecke.com
 fumotde.de
-furnilivora.com
 fwnkeoyt.shop
 fxtpi.shop
 gaborschuhe.com
@@ -141,18 +137,20 @@ hannoverebikes.de
 hanse-treuhand.com
 hanseatischercontainerservicegmbh.de
 hauke-verteilung.com
+hausandwerk.com
 haushaltswarendiscount.shop
 hauslich.com
 hausora.shop
 hauspellets.de
+hauusmarkt.myshopify.com
 havlo.de
+heckmeist.shop
 heizelektromark.de
 heizholz-express.com
 heizoel-bio.com
 heizoel-classic.com
 heizoel-genial.com
 heizoel-online.com
-hellhausgarten.com
 helvaron.shop
 heudorfer-fahrradladen.de
 hewil-heizung.de
@@ -178,11 +176,11 @@ hysellia.com
 instore-fashion.de
 jcs-technologies.de
 johdorbrennholz.com
+kaffemaschinen.shop
 kahla-official.com
 kaiserstadtcontainergmbh.de
 kaminexpertstore.com
 kaminholzhalstenbekgmbh.com
-kanzlei-hexental.de
 kanzlei-owl.com
 kaufello.shop
 kcfvsjpr.shop
@@ -232,20 +230,23 @@ moellerbrennholz.de
 mollerbrennholzhandelgmbh.de
 morgenwarme.de
 msihandelgmbh.de
-muenzencorner.com
 musicianshop.de
+mynhusnc.shop
 mytelhandys.de
 nagelein-handel.com
 ndb-shop.com
 neology-stripe.de
 netzpro.shop
+netzpunkt.myshopify.com
 newblue-tradingshop.com
 nicoudo.com
 nordza.de
+nyftiwnh.shop
 oel-check.com
 oko-heizung.de
 oko-spechtbrennholzgmbh.de
 okobrennstoffeforstergmbh.com
+onxouiwn.shop
 otto-retouren.de
 pagatxa.com
 paulusbrennholz.com
@@ -265,7 +266,7 @@ print-1.com
 pucaage.com
 puppeace.de
 purekaffee.com
-qrlsvssy.shop
+qpgkzptk.shop
 quarvesta.shop
 racineelectromenager.com
 rad-held.com
@@ -277,12 +278,11 @@ reptailshop.de
 reynamobel.shop
 riedelweinglaser.de
 rmwpharw.shop
+rogntwxw.shop
 rollopark.com
 rostock-scooter.de
 rudolphmaschine.de
 rundholzdirekt.de
-sabineheidelberg.de
-sabrobrand.shop
 saia-maschinen.com
 saspromordi.com
 sasstone.com
@@ -307,20 +307,25 @@ stiefelwerkstatt.shop
 store.elmleigha.com
 store.elvaritaro.com
 store.kingslora.com
+store.newset.org
+store.ppdut.net
 store.woodgroven.com
 strollerstepbase.com
 sunpowerprofi.de
 swabytec24.com
 swabytec24.de
 taotdzhi.shop
+tawagold.store
 tc-germany.com
 teichpoint.live
 tektronix-gmbh.com
+telesgo.shop
 thevintagefactory.de
 tischlereijache-shop.de
-tokietmo.shop
 tom-trailer.com
-treuhand-fides.com
+touchedhome.shop
+tryhgi.shop
+twinlaze.store
 uaxmncug.shop
 ufheimwerker-de.com
 universalsack.com
@@ -332,7 +337,6 @@ varileoutdoors.shop
 varzunel.com
 vdel-electromenager.com
 verlinggroup.com
-viewhaushaltswaren.shop
 vnpsfyme.shop
 vogeler-technik.de
 volturexa.de
@@ -341,7 +345,6 @@ vuubdofp.shop
 waschmaschinenanschluss.hamburg
 weinlandhub.com
 weldora.de
-wensauer-holz.com
 werksraeder-24.de
 weteextees.com
 whndiisb.shop
@@ -354,7 +357,6 @@ wohnelva.de
 wohnenideenalltag.com
 wolle-weinreich-muehlhausen.de
 workco.de
-ysa-handels.com
 zauberbeam.de
 zenpa.shop
 znvzhsbw.shop
