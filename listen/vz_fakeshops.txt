@@ -1,4 +1,4 @@
-# Fake-Shop-Warnungen der Verbraucherzentralen (https://warnung.fakeshop-finder.de/), Stand 2026-11-21
+# Fake-Shop-Warnungen der Verbraucherzentralen (https://warnung.fakeshop-finder.de/), Stand 2026-11-23
 # Erzeugt mit scripts/build_vz_list.py – nicht von Hand bearbeiten.
 aerzteregistrat.de
 aio-vita.com
@@ -254,7 +254,6 @@ pawmony.shop
 pbici.com
 pellet-werk.com
 pelletkontor.de
-pelletpoint77gmbh.de
 pellets-anhanger-premium.de
 pepestiershop.com
 peptide-shop.org
