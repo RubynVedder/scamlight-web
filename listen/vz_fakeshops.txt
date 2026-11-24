@@ -1,8 +1,7 @@
-# Fake-Shop-Warnungen der Verbraucherzentralen (https://warnung.fakeshop-finder.de/), Stand 2026-11-23
+# Fake-Shop-Warnungen der Verbraucherzentralen (https://warnung.fakeshop-finder.de/), Stand 2026-11-24
 # Erzeugt mit scripts/build_vz_list.py – nicht von Hand bearbeiten.
 aerzteregistrat.de
 aio-vita.com
-aknowi.de
 albuni-24.de
 allergocover.care
 ancientcoinjournal.com
@@ -136,6 +135,7 @@ hannibalcorp.com
 hannoverebikes.de
 hanse-treuhand.com
 hanseatischercontainerservicegmbh.de
+hartlerfeld-ki.io
 hauke-verteilung.com
 hausandwerk.com
 haushaltswarendiscount.shop
@@ -243,6 +243,7 @@ nicoudo.com
 nordza.de
 nyftiwnh.shop
 oel-check.com
+ohnerezept.eu
 oko-heizung.de
 oko-spechtbrennholzgmbh.de
 okobrennstoffeforstergmbh.com
@@ -254,6 +255,7 @@ pawmony.shop
 pbici.com
 pellet-werk.com
 pelletkontor.de
+pelletpoint77gmbh.de
 pellets-anhanger-premium.de
 pepestiershop.com
 peptide-shop.org
@@ -272,6 +274,7 @@ rad-held.com
 radfit24.com
 radmarkt-schaeler.de
 raumnote.de
+rautnerwert-ki.io
 reisholz.de
 reptailshop.de
 reynamobel.shop
@@ -302,6 +305,7 @@ soniferaheim.de
 sparhaustechnik.de
 starkg.de
 steflio.com
+stg-beratung.de
 stiefelwerkstatt.shop
 store.elmleigha.com
 store.elvaritaro.com
@@ -320,14 +324,13 @@ teichpoint.live
 tektronix-gmbh.com
 telesgo.shop
 thevintagefactory.de
-tischlereijache-shop.de
 tom-trailer.com
 touchedhome.shop
 tryhgi.shop
 twinlaze.store
 uaxmncug.shop
 ufheimwerker-de.com
-universalsack.com
+ulvenz-ki.io
 uqsjmnnr.shop
 urbanfashia.com
 vanessamaishop.de
@@ -347,7 +350,6 @@ weldora.de
 werksraeder-24.de
 weteextees.com
 whndiisb.shop
-wiga-pharma.de
 winklers-handel.de
 winzerglueck.com
 wloka-brennholz.de
