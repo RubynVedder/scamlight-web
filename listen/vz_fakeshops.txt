@@ -1,4 +1,4 @@
-# Fake-Shop-Warnungen der Verbraucherzentralen (https://warnung.fakeshop-finder.de/), Stand 2026-11-24
+# Fake-Shop-Warnungen der Verbraucherzentralen (https://warnung.fakeshop-finder.de/), Stand 2026-11-25
 # Erzeugt mit scripts/build_vz_list.py – nicht von Hand bearbeiten.
 aerzteregistrat.de
 aio-vita.com
@@ -8,13 +8,15 @@ ancientcoinjournal.com
 anhaenger-brennholz.de
 anhaengerliebe.de
 ascherslebener-holzhandel.de
+auktionshaus-reichmann.de
 auraverely.com
-autohaus-temuer.de
+avelofahrrad.de
 aznshdxc.shop
 b-chauffage.de
 backenundsuben.com
 bauer-brennstoffe.com
 bauhauuss.de
+beliebteapotheken.com
 bellaro-store.de
 berger-brennstoffe.com
 bergmann-outdoor.com
@@ -34,6 +36,7 @@ brennholz-hans.de
 brennholz-kammer.de
 brennholzangebot.com
 brennholzbredemeier.com
+brennholzhandelgerhold.com
 brennholzkontorscharf.de
 brennholzkraft.com
 brennholzmuscheid.com
@@ -41,7 +44,6 @@ brennholzprofipretzl.de
 brennholzschneblegmbh.com
 brennholztuehandel.de
 brennholzullrich.com
-brennkiste.de
 brennstoffe-kappus.com
 brennstoffemokstat.shop
 brennstoffhandel-behnke.de
@@ -76,6 +78,7 @@ dieameisenmaler.com
 dieameisenmaler.myshopify.com
 diyhandels-de.com
 doormey.myshopify.com
+dtbsajsa.shop
 e-bikesmkgmbh-de.com
 e-bikesmkgmbh.com
 e24-shopech.com
@@ -92,13 +95,12 @@ escooterweltt.de
 eshop.stonebournea.com
 fahrradu.de
 falthammer-markt.com
+fb-holz.com
 ferreira-container.com
 fest-holz.com
 feuer-und-holz.store
 feuerholzkiste.de
-feuerholzliebe.de
 feuerund-holz.de
-finbefund.de
 finsiegel.de
 fixardo.de
 frankefahrrad.de
@@ -121,6 +123,7 @@ global-kaufhaus.com
 glutbar.de
 goia-direkt.de
 goillo.com
+gold-outlet24.com
 goldbesitz.com
 goldstern-elektro.com
 goldtanne.de
@@ -166,20 +169,20 @@ holzhofgmbh.de
 holzkamin.com
 holzliefernexpress.de
 holzpro24.com
-holzregional.de
 holzverkauf-lfl.shop
 holzwaermedirekt.de
 homeneext.shop
 hornwald.de
-hselbe-fahrrad.de
 hysellia.com
 instore-fashion.de
+ixsdwprg.shop
 jcs-technologies.de
 johdorbrennholz.com
 kaffemaschinen.shop
 kahla-official.com
 kaiserstadtcontainergmbh.de
 kaminexpertstore.com
+kaminholz-wohnort.com
 kaminholzhalstenbekgmbh.com
 kanzlei-owl.com
 kaufello.shop
@@ -188,6 +191,7 @@ kfzdaten24.de
 kickhoodies.de
 klimaanlageportal.de
 klimatmas.com
+kochmeister.store
 krovian.shop
 kuchtafe.myshopify.com
 kuk-kaffee.de
@@ -196,7 +200,6 @@ lanyera.com
 leagpellts.de
 legnaepellet24.it
 leisewind.com
-lesboisdubreuil.com
 lichtwappen.de
 lidlrabatt.com
 lkwpetru-shop.com
@@ -227,10 +230,8 @@ mobel-wahls.shop
 mobeloutletneheim.shop
 moelders24.de
 moellerbrennholz.de
-mollerbrennholzhandelgmbh.de
 morgenwarme.de
 msihandelgmbh.de
-musicianshop.de
 mynhusnc.shop
 mytelhandys.de
 nagelein-handel.com
@@ -241,6 +242,7 @@ netzpunkt.myshopify.com
 newblue-tradingshop.com
 nicoudo.com
 nordza.de
+numarver-muenzen.com
 nyftiwnh.shop
 oel-check.com
 ohnerezept.eu
@@ -255,21 +257,18 @@ pawmony.shop
 pbici.com
 pellet-werk.com
 pelletkontor.de
-pelletpoint77gmbh.de
 pellets-anhanger-premium.de
 pepestiershop.com
 peptide-shop.org
 philoro-de.to
 philoro.online
 portanol.shop
-primini.shop
 print-1.com
 pucaage.com
 puppeace.de
 purekaffee.com
 qpgkzptk.shop
 quarvesta.shop
-racineelectromenager.com
 rad-held.com
 radfit24.com
 radmarkt-schaeler.de
@@ -284,7 +283,6 @@ rogntwxw.shop
 rollopark.com
 rostock-scooter.de
 rudolphmaschine.de
-rundholzdirekt.de
 saia-maschinen.com
 saspromordi.com
 sasstone.com
@@ -292,7 +290,6 @@ scandiwarm.com
 schmitz-bio-ol.de
 schnellenberger-haus.de
 schuhe.live
-sciponoe.com
 scs-elektro.de
 servicehanschen-kg.com
 sicama.eu
@@ -300,9 +297,7 @@ sissoko-keita.com
 skiwaxcare.com
 slktggph.shop
 smarthos.de
-solidewaren.com
 soniferaheim.de
-sparhaustechnik.de
 starkg.de
 steflio.com
 stg-beratung.de
@@ -336,6 +331,7 @@ urbanfashia.com
 vanessamaishop.de
 vape-de.de
 varileoutdoors.shop
+variloshop.shop
 varzunel.com
 vdel-electromenager.com
 verlinggroup.com
@@ -347,6 +343,7 @@ vuubdofp.shop
 waschmaschinenanschluss.hamburg
 weinlandhub.com
 weldora.de
+werkelio.de
 werksraeder-24.de
 weteextees.com
 whndiisb.shop
@@ -357,9 +354,12 @@ wmuwoebj.shop
 wohnelva.de
 wohnenideenalltag.com
 wolle-weinreich-muehlhausen.de
+wooud.de
 workco.de
+xo-solution.fr
 zauberbeam.de
 zenpa.shop
+zeraphino.com
 znvzhsbw.shop
 zovrilo.com
 zvelonium.de
