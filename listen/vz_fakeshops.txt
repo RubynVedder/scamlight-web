@@ -1,6 +1,5 @@
-# Fake-Shop-Warnungen der Verbraucherzentralen (https://warnung.fakeshop-finder.de/), Stand 2026-11-25
+# Fake-Shop-Warnungen der Verbraucherzentralen (https://warnung.fakeshop-finder.de/), Stand 2026-11-26
 # Erzeugt mit scripts/build_vz_list.py – nicht von Hand bearbeiten.
-aerzteregistrat.de
 aio-vita.com
 albuni-24.de
 allergocover.care
@@ -13,7 +12,6 @@ auraverely.com
 avelofahrrad.de
 aznshdxc.shop
 b-chauffage.de
-backenundsuben.com
 bauer-brennstoffe.com
 bauhauuss.de
 beliebteapotheken.com
@@ -50,6 +48,7 @@ brennstoffhandel-behnke.de
 brettspielmeister.shop
 btrgservices.com
 buchlaterne.de
+campinglagea.com
 campusfahrradergmbh.de
 carpruf.de
 casualtry.de
@@ -76,12 +75,10 @@ delphios.shop
 delvaxor.shop
 dieameisenmaler.com
 dieameisenmaler.myshopify.com
-diyhandels-de.com
-doormey.myshopify.com
+dm-bauhandel.de
 dtbsajsa.shop
 e-bikesmkgmbh-de.com
 e-bikesmkgmbh.com
-e24-shopech.com
 ebikeprofi24.de
 ebikezeit-fahrrad.de
 ebm-heimwerk.com
@@ -124,7 +121,6 @@ glutbar.de
 goia-direkt.de
 goillo.com
 gold-outlet24.com
-goldbesitz.com
 goldstern-elektro.com
 goldtanne.de
 golfnavi.shop
@@ -170,10 +166,10 @@ holzkamin.com
 holzliefernexpress.de
 holzpro24.com
 holzverkauf-lfl.shop
-holzwaermedirekt.de
 homeneext.shop
 hornwald.de
 hysellia.com
+ihrbrennholz.com
 instore-fashion.de
 ixsdwprg.shop
 jcs-technologies.de
@@ -195,6 +191,7 @@ kochmeister.store
 krovian.shop
 kuchtafe.myshopify.com
 kuk-kaffee.de
+kullerpfote.store
 lanigo.de
 lanyera.com
 leagpellts.de
@@ -207,6 +204,7 @@ machinery-technologyeuropeltd.de
 madegsly.com
 magiluxe-store.com
 makerklang.shop
+mannstasc.com
 market.ashfielden.com
 market.fieldcrofton.com
 market.galeririva.com
@@ -298,6 +296,7 @@ skiwaxcare.com
 slktggph.shop
 smarthos.de
 soniferaheim.de
+spiritprofi.com
 starkg.de
 steflio.com
 stg-beratung.de
@@ -309,6 +308,7 @@ store.newset.org
 store.ppdut.net
 store.woodgroven.com
 strollerstepbase.com
+stylemarketz.com
 sunpowerprofi.de
 swabytec24.com
 swabytec24.de
